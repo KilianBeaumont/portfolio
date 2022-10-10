@@ -9,4 +9,3 @@ const toggleThemeMode = () => {
 
 input.onchange = toggleThemeMode;
 
-let
